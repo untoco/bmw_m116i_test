@@ -1,0 +1,31 @@
+{
+  "carPaint": {
+    "color": "#FF002C5B",
+    "flakes": 0.777,
+    "enabled": true
+  },
+  "carPaint2": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "cloth": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "leather": {
+    "enabled": false,
+    "colors": [
+      "#FFFFFF"
+    ]
+  },
+  "rims": {
+    "enabled": true,
+    "colors": [
+      "#A0A0A0"
+    ]
+  }
+}
