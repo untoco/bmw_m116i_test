@@ -10,3 +10,13 @@
 - Дифференциал: дисковый LSD в корпусе 188, 1.5-way, 45% power / 25% coast, преднатяг 118 Nm (12 kgf m).
 - Тормоза: M Sport, 340 mm спереди / 345 mm сзади; передние колодки M4.
 - Колёса: 225/40 R18. Доступны Yokohama ADVAN A052 и Shibata R23 TW200R.
+
+## Baseline
+
+Файл [`setups/baseline.ini`](setups/baseline.ini) — основной пресет для Yokohama ADVAN A052: 26 psi cold, TC выключен, с финальными значениями развала/схождения и настройками амортизаторов KW.
+
+Чтобы установить его вручную, скопируйте `baseline.ini` в папку:
+
+`Documents/Assetto Corsa/setups/bmw_m116i_test/`
+
+Создайте папку, если её ещё нет. Затем в Content Manager откройте сетапы автомобиля и выберите `baseline`.
